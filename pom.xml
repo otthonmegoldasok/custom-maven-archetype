@@ -53,4 +53,12 @@
             </plugins>
         </pluginManagement>
     </build>
+
+    <distributionManagement>
+        <repository>
+          <id>github</id>
+          <name>GitHub otthonmegoldasok Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/otthonmegoldasok/custom-maven-archetype</url>
+        </repository>
+     </distributionManagement>
 </project>
