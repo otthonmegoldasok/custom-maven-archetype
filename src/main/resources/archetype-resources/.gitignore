@@ -1,0 +1,19 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Visual Studio Code ###
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+### Maven ###
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+### macOS ###
+.DS_Store
